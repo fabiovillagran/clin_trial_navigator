@@ -12,4 +12,5 @@ The .ipynb file demonstrates some of the tool's current capabilities and the int
 
 The .py file allows you to run the program in real-time on your own system.  
 Simply clone this repository and install the required dependencies found in the requirements.txt file (preferably in a virtual environment)
+
 The tool should then be ready to run
