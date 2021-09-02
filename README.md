@@ -1,4 +1,5 @@
-# clin_trial_navigator
+# Clinical Trial Navigator
+### See the 'clin_trial_outcomes.ipynb' file for a walkthrough of this tool.  Web version is currently under development, which will have a more user-friendly, graphical interface.
 
 This project queries the clinicaltrials.gov database based on custom search criteria, returns up to 1,000 clinical trials with detailed information on trial design 
 and outcome measures, and converts the results into an easy-to-read format on which analyses can be performed.
